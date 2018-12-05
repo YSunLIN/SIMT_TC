@@ -5,7 +5,7 @@ Algorithm features:
 * Use SIMT to parallel the sorted lists intersections on GPU
 
 ## Problem Definition
-The problem is from the competition 2018 CCF BDCI in China, and we were very lucky to win the **first prize**.
+The problem is from the competition 2018 CCF BDCI in China, and we are very lucky to win the **first prize**.
 
 [基于GPU服务器的图数据三角形计数算法设计与性能优化](https://www.datafountain.cn/competitions/321/details/rule)
 
@@ -21,7 +21,9 @@ The problem is from the competition 2018 CCF BDCI in China, and we were very luc
 
 ## How it works
 
-[【BDCI 2018】欧拉的核弹PPT](https://drive.google.com/open?id=13FXcvfi1H63FvJwicCBlBTdkqvtAkKxE)
+Google Drive: [【BDCI 2018】欧拉的核弹PPT](https://drive.google.com/open?id=13FXcvfi1H63FvJwicCBlBTdkqvtAkKxE)
+
+Baidu Netdisk: [【BDCI 2018】欧拉的核弹PPT](https://pan.baidu.com/s/1EYZ6EzaAM0yqu0Be8wnF_A)
 
 ## How to Use
 Build the project with:
